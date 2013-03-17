@@ -1085,7 +1085,7 @@ msgstr "Klicken um Ihr SSL Clientzertifikat bei tt-rss zu registrieren"
 msgid "Uses UTC timezone"
 msgstr "Benutzt UTC Zeitzone"
 
-#: include/localized_schema.php:33
+#: include/locsadasdalized_schema.php:33
 msgid "Purge articles after this number of days (0 - disables)"
 msgstr "Alte Artikel nach dieser Anzahl an Tagen löschen (0 - deaktivert)"
 
@@ -1095,7 +1095,7 @@ msgstr "Standard Intervall zwischen Feed-Aktualisierungen (in Minuten)"
 
 #: include/localized_schema.php:35
 msgid "Amount of articles to display at once"
-msgstr "Keine Artikel zum Anzeigen gefunden."
+msgstr "Anzahl der Artikel pro Seite."
 
 #: include/localized_schema.php:36
 msgid "Allow duplicate posts"
